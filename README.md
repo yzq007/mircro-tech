@@ -8,7 +8,7 @@
 ## 技术blog
 
 - [小蝌蚪传记：前端菜鸡让接口提速60%的实践与原理——云备胎](https://github.com/airuikun/smart-blog/issues/11)
-- [小蝌蚪传记：通过console.log高仿FBI Warning](https://github.com/airuikun/smart-blog/issues/10)
+- [小蝌蚪传记：通过console.log高仿FBI Warning——想妳的夜](https://github.com/airuikun/smart-blog/issues/10)
 - [小蝌蚪传记：nodejs线上模块热部署原理与实现——富.婆的爱](https://github.com/airuikun/smart-blog/issues/9)
 - [小蝌蚪传记：200行代码实现前端无痕埋点——顶级渣.男](https://github.com/airuikun/smart-blog/issues/8)
 - [小蝌蚪传记：端口转发——夜.店传说](https://github.com/airuikun/smart-blog/issues/7)
@@ -20,6 +20,7 @@
 
 ## 面试汇总
 
+- [小蝌蚪系列：面试中软性问题的套路与反套路（上）](https://github.com/airuikun/smart-blog/issues/16)
 - [【周刊-3】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cd82463518825692330d440)
 - [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
 - [【周刊-1】三年大厂面试官-面试题精选及答案](https://juejin.im/post/5ca9de22e51d452b5372ed90)
